@@ -1,1 +1,1 @@
-haproxy:2.9.8-alpine3.20
+sinamics/ztnet
