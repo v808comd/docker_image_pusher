@@ -3,3 +3,4 @@ sinamics/ztnet
 cym1102/nginxwebui:latest
 btpanel/baota
 btpanel/baota:7.9.4-lnmp
+btpanel/baota-arm
