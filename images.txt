@@ -1,3 +1,4 @@
 sinamics/ztnet:0.6.7
 sinamics/ztnet
 cym1102/nginxwebui:latest
+btpanel/btpanel-arm
