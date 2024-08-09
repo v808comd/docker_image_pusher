@@ -1,7 +1,1 @@
-sinamics/ztnet:0.6.7
 sinamics/ztnet
-cym1102/nginxwebui:latest
-btpanel/baota
-btpanel/baota:7.9.4-lnmp
-btpanel/baota-arm
-dec0dOS/zero-ui:latest
