@@ -1,1 +1,1 @@
-sinamics/ztnet:latest
+sinamics/ztnet:0.7.0
