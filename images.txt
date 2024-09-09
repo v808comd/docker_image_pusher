@@ -1,1 +1,2 @@
 sinamics/ztnet:0.7.0
+seedgou/zerotier-moon:latest
