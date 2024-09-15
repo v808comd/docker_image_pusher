@@ -2,4 +2,4 @@ sinamics/ztnet:0.7.0
 seedgou/zerotier-moon:latest
 ddandrew/zerotier-moon
 hushunxu/zerotier-moon
-feiyusir/btpannel
+feiyusir/btpannel:2
