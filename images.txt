@@ -1,4 +1,5 @@
-sinamics/ztnet:0.7.0
+sinamics/ztnet:0.7.1
 seedgou/zerotier-moon:latest
 ddandrew/zerotier-moon
 hushunxu/zerotier-moon
+dothebetter/zerotier-moon
